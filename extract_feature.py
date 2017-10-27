@@ -10,7 +10,7 @@ import os
 # caffe.set_device(0)
 caffe.set_mode_cpu()
 global PERSON_NUM
-PERSON_NUM=1668
+PERSON_NUM=1669
 import copy
 def extract_feature(feature_num):
     compare0=[]
